@@ -1,8 +1,8 @@
 {
-  "name": "github-jobs-react-project",
+  "name": "github-jobs-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://youjeen-ru.github.io/GitHub-Jobs-API-React/",
+  "homepage": "https://youjeen-ru.github.io/search-jobs-GitHub/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
